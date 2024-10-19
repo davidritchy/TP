@@ -1,0 +1,557 @@
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../../../$
+	../../../.VirtualBox/
+	../../../.config/
+	../../../.crossnote/
+	../../../.dropbox_bi/
+	../../../.gitconfig
+	../../../.gk/
+	../../../.lesshst
+	../../../.viminfo
+	../../../.vscode/
+	../../../3D Objects/
+	../../../AppData/
+	../../../Contacts/
+	../../../Creative Cloud Files  davidritchyl@gmail.com B97869B76604AEF70A495FC2@AdobeID/
+	../../../Creative Cloud Files e2395932@cmaisonneuve.qc.ca 9802ad54e6f7a7bd9e214b1191b63015c4ee9591606274d7732eb96cbc812a4d/
+	../../../Documents/
+	../../../Downloads/
+	../../../Dropbox/
+	../../../Favorites/
+	../../../IntelGraphicsProfiles/
+	../../../Links/
+	../../../Music/
+	../../../NTUSER.DAT
+	../../../NTUSER.DAT{43f991ba-7912-11ed-8426-af6c7f9ef732}.TM.blf
+	../../../NTUSER.DAT{43f991ba-7912-11ed-8426-af6c7f9ef732}.TMContainer00000000000000000001.regtrans-ms
+	../../../NTUSER.DAT{43f991ba-7912-11ed-8426-af6c7f9ef732}.TMContainer00000000000000000002.regtrans-ms
+	../../.849C9593-D756-4E56-8D6E-42412F2A707B
+	../21F - TP1.zip
+	../31F-619-DemoClasse/
+	../31F-620-TestDeploy/
+	../@dump(request()-is(.txt
+	../A_part/
+	../Blog/
+	../Bootstrap/
+	../Bootstrap_2.zip
+	../Bootstrap_2/
+	../CV de David 02.28 (2).pdf
+	../David_Lamothe.zip
+	../Dev-C++.lnk
+	../Devoir_TP.zip
+	../Dropbox.lnk
+	../ETC/
+	../EXERCICE3.pdf
+	../Environnement_de_developpement_Web_1_/
+	../Exercice #2.txt
+	../Exercice_Echecs/
+	../Firefox.lnk
+	"../Fond \303\251cran natures.jpg"
+	../Grid/
+	../Microsoft Teams classic (work or school).lnk
+	../Mon_site_web/
+	../MonetaMarket Mobius.lnk
+	../Name.txt
+	../Name_act.txt
+	../Names.txt
+	../Neat Office.lnk
+	../PLUGINS/
+	../Postman.lnk
+	../ProInterface.zip
+	../Profil 1 - Edge.lnk
+	../Projet-UX-UI-Finale/
+	../Projet-UX/
+	../Projet_stampee.mwb
+	../Projet_stampee.mwb.bak
+	../Site_Stampee_Guide/
+	../SkyGoldMarkets Mobius.lnk
+	../Sprint_0.pdf
+	../TP.jam
+	../TP1 -  Programmation Web Dynamique.docx
+	../TP1 -  Programmation Web Dynamique.pdf
+	../TP1/
+	../TP1_PARTIE2.pdf
+	../TP1_devoir.jam
+	../TP1_librairie.zip
+	../TP1_part2.pdf
+	../TP1_partie2.docx
+	../TP_David_Lamothe.zip
+	../TP_dynamique.png
+	../Test/
+	../Test_autre/
+	../Travaux 1/
+	../Travaux_finale_stampee.zip
+	../Travaux_finale_stampee/
+	"../T\303\251l\303\251chargements - Raccourci.lnk"
+	../Visual Studio Code.lnk
+	../_v2.zip
+	../accueil.fig
+	../backlog/
+	../base_donnes_bis.zip
+	../batterie.js
+	../button.txt
+	../code.txt
+	../code_html.txt
+	../code_php.txt
+	../code_twigg.txt
+	../code_uagers.txt
+	../cours-10.zip
+	../cours-11.zip
+	"../cr\303\251er une fonction qui prend un ele.txt"
+	../demo/
+	git_exercice1.log
+	../desktop.ini
+	../devoir/
+	../devoir_EDW2.pdf
+	../devoir_base_donnee.mwb
+	../devoir_base_donnee.mwb.bak
+	../devoir_reseau.pdf
+	../devoir_reseau2.pdf
+	../devoir_reseau3.pdf
+	../devoir_tp.jam
+	../devoir_traitement/
+	../devoir_web2.txt
+	../devoirs-davidritchy/
+	../dossiers importants/
+	../edw3/
+	../equipe/
+	../etc.mwb
+	../etc.mwb.bak
+	../ex.html
+	../ex1-classes-et-liste-de-lecture-video-davidritchy/
+	../ex2-boites-modales-davidritchy.zip
+	../ex2-boites-modales-davidritchy/
+	../ex3-composant-batterie-davidritchy/
+	../ex4-intro-npm-davidritchy.zip
+	../ex4-intro-npm-davidritchy/
+	../exam/
+	../examen_finale/
+	../exemples/
+	../exercice a remettre/
+	../exo.sql
+	../exo_2.png
+	../forum1.pdf
+	../forum_finale/
+	../grilles.png
+	../guide.pdf
+	../httpsgithub.commax-lacasse-maisonne.txt
+	../icms-infolettre-get-data.PHP.txt
+	../index
+	../initiaition a la creation -site web/
+	../laravel/
+	../main.js
+	../maquette.txt
+	../maquette_finale.txt
+	../model.mwb
+	../mot_de_passe_base_donnes.txt
+	../newreleve.pdf
+	../nouveau_plugins/
+	../npm.zip
+	../npm/
+	../php-mvc-master.zip
+	../php-mvc-master/
+	../produireSpecimenCheque.pdf
+	../programmation/
+	../programmation_interface_2/
+	../session_ete/
+	../site.zip
+	../site_web_proto/
+	../siteweb.pdf
+	../siteweb1.png
+	../siteweb2.png
+	../spint3.pdf
+	../stamp.mwb
+	../stamp.mwb.bak
+	../stamp.txt
+	../stampee/
+	../test-intro-npm/
+	../test_css/
+	../test_lara/
+	../timbre/
+	../timbres/
+	../todo/
+	../tp1-librairie-orient-e-objet-davidritchy/
+	../tp1.jam
+	../tp2-David_Lamothe.fig
+	../tp2-davidritchy/
+	../tp2.fig
+	../tp3-application-avec-librairies-davidritchy/
+	../tp3.zip
+	../tp3/
+	../tp3_David_Lamothe.zip
+	../traitement des medias numeriques/
+	../web avancee.zip
+	../web avancee/
+	../../Classeur.xlsx
+	../../Document 1.docx
+	../../Document 2.docx
+	../../Document.docx
+	../../Documents/
+	../../Images/
+	../../Personal Vault.lnk
+	../../Prise en main de OneDrive.pdf
+	"../../Pr\303\251sentation.pptx"
+	"../../bob-R\303\251cup\303\251r\303\251.psd"
+	../../desktop.ini
+	../../devoir-environnement de developpement .docx
+	../../devoir-environnement de developpement .pdf
+	../../devoir-environnement de developpement web.pdf
+	../../../OpenVPN/
+	../../../Saved Games/
+	../../../Searches/
+	../../../Tracing/
+	../../../Videos/
+	../../../VirtualBox VMs/
+	../../../barbershop
+	../../../go/
+	../../../mustache.exe
+	../../../ntuser.dat.LOG1
+	../../../ntuser.dat.LOG2
+	../../../ntuser.ini
+	../../../scoop/
+	../../../test#1 program.cpp
+	../../../test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit 6bfbbd4cad991cb798e77bd8f866040c867213dd
+Author: david <therich15@yahoo.fr>
+Date:   Sat Oct 19 12:39:24 2024 -0400
+
+    creation du fichier style.css
+
+commit be9d5fd41b6ab8a7f336574f61c4f1937dac0b7d
+Author: david <therich15@yahoo.fr>
+Date:   Sat Oct 19 12:36:14 2024 -0400
+
+    creation du fichier main.js
+
+commit 742f7d479fce266164b99be81aed660c30fe3623
+Author: david <therich15@yahoo.fr>
+Date:   Sat Oct 19 12:33:20 2024 -0400
+
+    creation du fichier index.html
+
+commit be7bc920d93f6b808ca660fc50ba2bbd4e5f4f13
+Author: David Lamothe <therich15@yahoo.fr>
+Date:   Fri Dec 1 12:52:33 2023 -0500
+
+    g ajouter une autre ligne
+
+commit 01f7b7b05a081fc60e9e705094460bc170baa17f
+Author: David Lamothe <therich15@yahoo.fr>
+Date:   Fri Dec 1 12:43:57 2023 -0500
+
+    g modifier une ligne
+
+commit 07ca7a8c067a515d35fc2bda2fb9ba119f1a99a1
+Author: David Lamothe <therich15@yahoo.fr>
+Date:   Fri Dec 1 12:31:29 2023 -0500
+
+    g ajouter une ligne input
+
+commit 8bd7ee761d371d8dfabe76f19ecdffb38294a3e4
+Author: david <therich15@yahoo.fr>
+Date:   Fri Dec 1 09:51:33 2023 -0500
+
+    g mis la couleur de fond a black
+
+commit 8dd78fd04b7887562b6cddba386e48d19522f35f
+Author: david <therich15@yahoo.fr>
+Date:   Fri Dec 1 09:39:16 2023 -0500
+
+    g change la couleur de fond
+
+commit 71639e391a99a8abf30d4fe80d26e7e4958ce0ab
+Author: david <therich15@yahoo.fr>
+Date:   Fri Dec 1 09:30:59 2023 -0500
+
+    jai change la phrase h1
+
+commit 8465929b136526316f20f1147a55d007eef5f3c7
+Author: david <therich15@yahoo.fr>
+Date:   Fri Dec 1 09:19:05 2023 -0500
+
+    je viens de creer une page
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../../../$
+	../../../.VirtualBox/
+	../../../.config/
+	../../../.crossnote/
+	../../../.dropbox_bi/
+	../../../.gitconfig
+	../../../.gk/
+	../../../.lesshst
+	../../../.viminfo
+	../../../.vscode/
+	../../../3D Objects/
+	../../../AppData/
+	../../../Contacts/
+	../../../Creative Cloud Files  davidritchyl@gmail.com B97869B76604AEF70A495FC2@AdobeID/
+	../../../Creative Cloud Files e2395932@cmaisonneuve.qc.ca 9802ad54e6f7a7bd9e214b1191b63015c4ee9591606274d7732eb96cbc812a4d/
+	../../../Documents/
+	../../../Downloads/
+	../../../Dropbox/
+	../../../Favorites/
+	../../../IntelGraphicsProfiles/
+	../../../Links/
+	../../../Music/
+	../../../NTUSER.DAT
+	../../../NTUSER.DAT{43f991ba-7912-11ed-8426-af6c7f9ef732}.TM.blf
+	../../../NTUSER.DAT{43f991ba-7912-11ed-8426-af6c7f9ef732}.TMContainer00000000000000000001.regtrans-ms
+	../../../NTUSER.DAT{43f991ba-7912-11ed-8426-af6c7f9ef732}.TMContainer00000000000000000002.regtrans-ms
+	../../.849C9593-D756-4E56-8D6E-42412F2A707B
+	../21F - TP1.zip
+	../31F-619-DemoClasse/
+	../31F-620-TestDeploy/
+	../@dump(request()-is(.txt
+	../A_part/
+	../Blog/
+	../Bootstrap/
+	../Bootstrap_2.zip
+	../Bootstrap_2/
+	../CV de David 02.28 (2).pdf
+	../David_Lamothe.zip
+	../Dev-C++.lnk
+	../Devoir_TP.zip
+	../Dropbox.lnk
+	../ETC/
+	../EXERCICE3.pdf
+	../Environnement_de_developpement_Web_1_/
+	../Exercice #2.txt
+	../Exercice_Echecs/
+	../Firefox.lnk
+	"../Fond \303\251cran natures.jpg"
+	../Grid/
+	../Microsoft Teams classic (work or school).lnk
+	../Mon_site_web/
+	../MonetaMarket Mobius.lnk
+	../Name.txt
+	../Name_act.txt
+	../Names.txt
+	../Neat Office.lnk
+	../PLUGINS/
+	../Postman.lnk
+	../ProInterface.zip
+	../Profil 1 - Edge.lnk
+	../Projet-UX-UI-Finale/
+	../Projet-UX/
+	../Projet_stampee.mwb
+	../Projet_stampee.mwb.bak
+	../Site_Stampee_Guide/
+	../SkyGoldMarkets Mobius.lnk
+	../Sprint_0.pdf
+	../TP.jam
+	../TP1 -  Programmation Web Dynamique.docx
+	../TP1 -  Programmation Web Dynamique.pdf
+	../TP1/
+	../TP1_PARTIE2.pdf
+	../TP1_devoir.jam
+	../TP1_librairie.zip
+	../TP1_part2.pdf
+	../TP1_partie2.docx
+	../TP_David_Lamothe.zip
+	../TP_dynamique.png
+	../Test/
+	../Test_autre/
+	../Travaux 1/
+	../Travaux_finale_stampee.zip
+	../Travaux_finale_stampee/
+	"../T\303\251l\303\251chargements - Raccourci.lnk"
+	../Visual Studio Code.lnk
+	../_v2.zip
+	../accueil.fig
+	../backlog/
+	../base_donnes_bis.zip
+	../batterie.js
+	../button.txt
+	../code.txt
+	../code_html.txt
+	../code_php.txt
+	../code_twigg.txt
+	../code_uagers.txt
+	../cours-10.zip
+	../cours-11.zip
+	"../cr\303\251er une fonction qui prend un ele.txt"
+	../demo/
+	git_exercice1.log
+	../desktop.ini
+	../devoir/
+	../devoir_EDW2.pdf
+	../devoir_base_donnee.mwb
+	../devoir_base_donnee.mwb.bak
+	../devoir_reseau.pdf
+	../devoir_reseau2.pdf
+	../devoir_reseau3.pdf
+	../devoir_tp.jam
+	../devoir_traitement/
+	../devoir_web2.txt
+	../devoirs-davidritchy/
+	../dossiers importants/
+	../edw3/
+	../equipe/
+	../etc.mwb
+	../etc.mwb.bak
+	../ex.html
+	../ex1-classes-et-liste-de-lecture-video-davidritchy/
+	../ex2-boites-modales-davidritchy.zip
+	../ex2-boites-modales-davidritchy/
+	../ex3-composant-batterie-davidritchy/
+	../ex4-intro-npm-davidritchy.zip
+	../ex4-intro-npm-davidritchy/
+	../exam/
+	../examen_finale/
+	../exemples/
+	../exercice a remettre/
+	../exo.sql
+	../exo_2.png
+	../forum1.pdf
+	../forum_finale/
+	../grilles.png
+	../guide.pdf
+	../httpsgithub.commax-lacasse-maisonne.txt
+	../icms-infolettre-get-data.PHP.txt
+	../index
+	../initiaition a la creation -site web/
+	../laravel/
+	../main.js
+	../maquette.txt
+	../maquette_finale.txt
+	../model.mwb
+	../mot_de_passe_base_donnes.txt
+	../newreleve.pdf
+	../nouveau_plugins/
+	../npm.zip
+	../npm/
+	../php-mvc-master.zip
+	../php-mvc-master/
+	../produireSpecimenCheque.pdf
+	../programmation/
+	../programmation_interface_2/
+	../session_ete/
+	../site.zip
+	../site_web_proto/
+	../siteweb.pdf
+	../siteweb1.png
+	../siteweb2.png
+	../spint3.pdf
+	../stamp.mwb
+	../stamp.mwb.bak
+	../stamp.txt
+	../stampee/
+	../test-intro-npm/
+	../test_css/
+	../test_lara/
+	../timbre/
+	../timbres/
+	../todo/
+	../tp1-librairie-orient-e-objet-davidritchy/
+	../tp1.jam
+	../tp2-David_Lamothe.fig
+	../tp2-davidritchy/
+	../tp2.fig
+	../tp3-application-avec-librairies-davidritchy/
+	../tp3.zip
+	../tp3/
+	../tp3_David_Lamothe.zip
+	../traitement des medias numeriques/
+	../web avancee.zip
+	../web avancee/
+	../../Classeur.xlsx
+	../../Document 1.docx
+	../../Document 2.docx
+	../../Document.docx
+	../../Documents/
+	../../Images/
+	../../Personal Vault.lnk
+	../../Prise en main de OneDrive.pdf
+	"../../Pr\303\251sentation.pptx"
+	"../../bob-R\303\251cup\303\251r\303\251.psd"
+	../../desktop.ini
+	../../devoir-environnement de developpement .docx
+	../../devoir-environnement de developpement .pdf
+	../../devoir-environnement de developpement web.pdf
+	../../../OpenVPN/
+	../../../Saved Games/
+	../../../Searches/
+	../../../Tracing/
+	../../../Videos/
+	../../../VirtualBox VMs/
+	../../../barbershop
+	../../../go/
+	../../../mustache.exe
+	../../../ntuser.dat.LOG1
+	../../../ntuser.dat.LOG2
+	../../../ntuser.ini
+	../../../scoop/
+	../../../test#1 program.cpp
+	../../../test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit 6bfbbd4cad991cb798e77bd8f866040c867213dd
+Author: david <therich15@yahoo.fr>
+Date:   Sat Oct 19 12:39:24 2024 -0400
+
+    creation du fichier style.css
+
+commit be9d5fd41b6ab8a7f336574f61c4f1937dac0b7d
+Author: david <therich15@yahoo.fr>
+Date:   Sat Oct 19 12:36:14 2024 -0400
+
+    creation du fichier main.js
+
+commit 742f7d479fce266164b99be81aed660c30fe3623
+Author: david <therich15@yahoo.fr>
+Date:   Sat Oct 19 12:33:20 2024 -0400
+
+    creation du fichier index.html
+
+commit be7bc920d93f6b808ca660fc50ba2bbd4e5f4f13
+Author: David Lamothe <therich15@yahoo.fr>
+Date:   Fri Dec 1 12:52:33 2023 -0500
+
+    g ajouter une autre ligne
+
+commit 01f7b7b05a081fc60e9e705094460bc170baa17f
+Author: David Lamothe <therich15@yahoo.fr>
+Date:   Fri Dec 1 12:43:57 2023 -0500
+
+    g modifier une ligne
+
+commit 07ca7a8c067a515d35fc2bda2fb9ba119f1a99a1
+Author: David Lamothe <therich15@yahoo.fr>
+Date:   Fri Dec 1 12:31:29 2023 -0500
+
+    g ajouter une ligne input
+
+commit 8bd7ee761d371d8dfabe76f19ecdffb38294a3e4
+Author: david <therich15@yahoo.fr>
+Date:   Fri Dec 1 09:51:33 2023 -0500
+
+    g mis la couleur de fond a black
+
+commit 8dd78fd04b7887562b6cddba386e48d19522f35f
+Author: david <therich15@yahoo.fr>
+Date:   Fri Dec 1 09:39:16 2023 -0500
+
+    g change la couleur de fond
+
+commit 71639e391a99a8abf30d4fe80d26e7e4958ce0ab
+Author: david <therich15@yahoo.fr>
+Date:   Fri Dec 1 09:30:59 2023 -0500
+
+    jai change la phrase h1
+
+commit 8465929b136526316f20f1147a55d007eef5f3c7
+Author: david <therich15@yahoo.fr>
+Date:   Fri Dec 1 09:19:05 2023 -0500
+
+    je viens de creer une page
