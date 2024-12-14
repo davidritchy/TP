@@ -1,0 +1,37 @@
+ {% for image in images    %}
+                    {% if image.image_principale == 1 %} 
+                    {% for timbre in timbres %}  
+                    {% if timbre.idTimbre == image.Timbre_idTimbre %}
+                    {% for enchere in encheres %}
+                    {% if enchere.idEnchere == timbre.Enchere_idEnchere %} 
+                    <div>  
+
+                        <div id="balise">
+                        
+                            <div class="icone">
+                                <i class="fa-regular fa-heart"></i>
+                            </div>
+                           
+                            <div class="image">{{ timbre.User_idUser  }}
+                                <a href="{{ base }}/Fiche?id={{ timbre.idTimbre }}&id_enchere={{ enchere.idEnchere }}">
+                                    <img src="{{ image.adresseImage }}" alt="image">
+                                </a>
+                            </div>
+                          
+                            <div class="desc">
+                                <div class="paragraphe">
+                                    <p id="prix">prix</p>
+                                    <p id="titre">{{ timbre.nom_timbre }}</p>
+                                    <p id="valeur">Valeur estimable : {{ enchere.prix_estimable }}</p>
+                                </div>
+                            </div>
+                               
+                        </div>
+                                   
+                    </div>
+                            {% endif %}
+                            {% endfor %}
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
+                    {% endfor %}

@@ -1,0 +1,27 @@
+.img{
+
+
+    position: relative;
+
+    & img{
+
+
+        object-fit: cover;
+        width: 100%;
+    }
+}
+
+body{
+
+    background-image: url("./img/matrix.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+
+footer{
+    text-align: center;
+    margin-top: 15%;
+    position: relative;
+}
+
